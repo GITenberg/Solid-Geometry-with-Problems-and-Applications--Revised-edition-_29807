@@ -1,0 +1,34 @@
+_repo: Solid-Geometry-with-Problems-and-Applications--Revised-edition-_29807
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lennes, N. J. (Nels Johann)
+    alias: Lennes, Nels Johann
+    birthdate: 1874
+    gutenberg_agent_id: '8218'
+    url: http://www.gutenberg.org/2009/agents/8218
+  - agent_name: Slaught, H. E. (Herbert Ellsworth)
+    alias: Slaught, Herbert Ellsworth
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '34191'
+    url: http://www.gutenberg.org/2009/agents/34191
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29807'
+  lccn: '19010382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geometry, Solid'
+- !lcc 'QA'
+title: Solid Geometry with Problems and Applications (Revised edition)
+url: http://www.gutenberg.org/ebooks/29807
